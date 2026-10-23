@@ -20,6 +20,13 @@ Understanding where money goes is an important part of personal finance. This pr
 - Visualize results with bar charts and pie charts
 - Generate a basic expense summary report
 
+
+## 📊 Expense Dashboard
+
+![Expense Analysis Dashboard](expense_dashboard.png)
+
+The dashboard compares spending across expense categories and payment methods.
+
 ## 🛠️ Technologies Used
 
 - Python

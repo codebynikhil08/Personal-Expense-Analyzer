@@ -27,6 +27,12 @@ Understanding where money goes is an important part of personal finance. This pr
 
 The dashboard compares spending across expense categories and payment methods.
 
+## 📊 Daily Expense Dashboard
+
+![Expense Analysis Dashboard](daily_expense.png)
+
+The dashboard compares spending across daily expense categories and payment methods.
+
 ## 🛠️ Technologies Used
 
 - Python

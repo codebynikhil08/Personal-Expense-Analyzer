@@ -1,0 +1,17 @@
+
+Date,Category,Amount,Payment_Method
+2026-10-01,Food,250,UPI
+2026-10-02,Travel,120,Cash
+2026-10-03,Food,180,UPI
+2026-10-04,Shopping,900,Card
+2026-10-05,Education,500,UPI
+2026-10-06,Travel,80,Cash
+2026-10-07,Food,300,UPI
+2026-10-08,Entertainment,400,Card
+2026-10-09,Education,250,UPI
+2026-10-10,Shopping,600,UPI
+2026-10-11,Food,150,Cash
+2026-10-12,Travel,100,UPI
+2026-10-13,Entertainment,200,Cash
+2026-10-14,Food,220,UPI
+2026-10-15,Shopping,350,Card
